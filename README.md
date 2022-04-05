@@ -24,3 +24,5 @@ Se desarrolló lo siguiente:
         - Navbar Estático (mediante JS) y animación del mismo al navegar la página
     - Página desarrollada totalmente responsive
     - Página estéticamente presentada
+
+### PD: Sí se necesita nota para el grupo de trabajo

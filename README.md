@@ -1,7 +1,8 @@
-Proyecto Realizado por: Stiven Salazar - 20131020013
+# Museum of Candy
+## Proyecto Realizado por: Stiven Salazar - 20131020013
 
-Universidad Distrital Francisco José de Caldas
-Proyecto Curricular de Ingeniería de Sistemas
+Universidad Distrital Francisco José de Caldas  
+Proyecto Curricular de Ingeniería de Sistemas  
 Grupo de Trabajo GISAC - Frontend
 
 De acuerdo al enunciado propuesto:
@@ -17,9 +18,9 @@ De acuerdo al enunciado propuesto:
 
 Se desarrolló lo siguiente:
 
-    - Uso de Framework Bootstrap e su versión 4.1.3.
+    - Uso de Framework Bootstrap en su versión 4.1.3.
     - Uso de componentes animados através de CSS en:
         - Hover Over de elementos del NavBar
         - Navbar Estático (mediante JS) y animación del mismo al navegar la página
     - Página desarrollada totalmente responsive
-    - Página estáticamenge presentada
+    - Página estéticamente presentada

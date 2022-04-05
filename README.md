@@ -20,6 +20,6 @@ Se desarrolló lo siguiente:
     - Uso de Framework Bootstrap e su versión 4.1.3.
     - Uso de componentes animados através de CSS en:
         - Hover Over de elementos del NavBar
-        - Navbar Estático y animación del mismo al navegar la página
+        - Navbar Estático (mediante JS) y animación del mismo al navegar la página
     - Página desarrollada totalmente responsive
     - Página estáticamenge presentada
